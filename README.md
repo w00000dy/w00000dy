@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoodyLetsCode" align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WoodyLetsCode&repo=WLED-GUI" align="right">
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoodyLetsCode" align="left"></a><a href="https://github.com/WoodyLetsCode/WLED-GUI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WoodyLetsCode&repo=WLED-GUI" align="right"></a>
 <br><br><br><br><br><br><br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WoodyLetsCode&repo=ESP-Relay" align="right">
+<a href="https://github.com/WoodyLetsCode/ESP-Relay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WoodyLetsCode&repo=ESP-Relay" align="right"></a>
 
 <!--
 **WoodyLetsCode/WoodyLetsCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
