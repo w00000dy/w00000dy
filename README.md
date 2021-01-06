@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoodyLetsCode" align="left"></a><a href="https://github.com/WoodyLetsCode/WLED-GUI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WoodyLetsCode&repo=WLED-GUI" align="right"></a>
+<a href="https://github.com/WoodyLetsCode"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoodyLetsCode" align="left"></a><a href="https://github.com/WoodyLetsCode/WLED-GUI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WoodyLetsCode&repo=WLED-GUI" align="right"></a>
 <br><br><br><br><br><br><br>
 <a href="https://github.com/WoodyLetsCode/ESP-Relay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WoodyLetsCode&repo=ESP-Relay" align="right"></a>
 
